@@ -6,7 +6,8 @@ Problem Scenario: ‘Marketing mix’ is a popular concept used in implementing 
 
  
 
-# Problem Objective: As a data scientist, you should perform exploratory data analysis and hypothesis testing. The goal is to gain a better understanding of the various factors that contribute to customer acquisition.
+# Problem Objective:
+As a data scientist, you should perform exploratory data analysis and hypothesis testing. The goal is to gain a better understanding of the various factors that contribute to customer acquisition.
 
  
 
